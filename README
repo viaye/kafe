@@ -11,15 +11,15 @@ These functions does provide library features and the base for a simple framewor
 - php function wrappers
 - search tools
 
-It is also aimed towards simplicity and eas
+KAFE is also aimed towards:
 
 - simplicity
 - easy to maintain
 - low footprint
 - cross application platform (Joomla, Origami)
-- reliablity
+- reliability
 - easy to scale application features
 
-Originally KAFE is derived from Hatamoto which aimed to create a universal CRUD functionality. By universial it was aimed that CRUD features to be available for any kind of complex data structure or web application. But the goal was too ambitious and needs more analysis, experimentation and experience to be feasible in the future.
+Originally KAFE is derived from Hatamoto which aimed to create a universal CRUD functionality. By universal it was aimed that CRUD features to be available for any kind of complex data structure or web application. But the goal was too ambitious and needs more analysis, experimentation and experience to be feasible in the future.
 
 Currently KAFE is used in at least a dozen commercial projects, for example, CMS systems, to support ticket applications, internal corporate ERP systems, Joomla based systems, WordPress sites and custom apps.
